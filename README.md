@@ -1,4 +1,4 @@
-# Curso-git
+# Repositorio uno en el curso de git
 primer repositorio
 
 ## descripción
